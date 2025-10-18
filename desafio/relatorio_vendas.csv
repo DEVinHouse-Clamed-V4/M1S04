@@ -1,0 +1,11 @@
+id_venda,id_produto,nome_produto,filial,quantidade,preco_unitario,valor_total_venda,data_venda,dia_semana,mes,ano
+101,1,Shampoo Nutritivo,Florianópolis,3,15.9,47.7,2025-10-01,Wednesday,October,2025
+102,3,Creme Dental Fresh,Joinville,2,7.9,15.8,2025-10-02,Thursday,October,2025
+103,10,Protetor Solar FPS 50,Blumenau,1,39.9,39.9,2025-10-02,Thursday,October,2025
+104,2,Sabonete Vegetal,Chapecó,5,3.5,17.5,2025-10-03,Friday,October,2025
+105,5,Condicionador Revitalizante,Joinville,2,17.4,34.8,2025-10-05,Sunday,October,2025
+106,8,Sabonete Líquido Antibacteriano,Florianópolis,4,8.7,34.8,2025-10-05,Sunday,October,2025
+107,1,Shampoo Nutritivo,Criciúma,2,15.9,31.8,2025-10-06,Monday,October,2025
+108,3,Creme Dental Fresh,Chapecó,3,7.9,23.7,2025-10-06,Monday,October,2025
+109,9,Gel Fixador Capilar,Joinville,1,10.5,10.5,2025-10-07,Tuesday,October,2025
+110,4,Desodorante Roll-On,Blumenau,2,12.5,25.0,2025-10-07,Tuesday,October,2025

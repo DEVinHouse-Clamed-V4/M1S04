@@ -1,0 +1,11 @@
+id_venda,id_produto,quantidade,data_venda,filial
+101,1,3,2025-10-01,Florianópolis
+102,3,2,2025-10-02,Joinville
+103,10,1,2025-10-02,Blumenau
+104,2,5,2025-10-03,Chapecó
+105,5,2,2025-10-05,Joinville
+106,8,4,2025-10-05,Florianópolis
+107,1,2,2025-10-06,Criciúma
+108,3,3,2025-10-06,Chapecó
+109,9,1,2025-10-07,Joinville
+110,4,2,2025-10-07,Blumenau

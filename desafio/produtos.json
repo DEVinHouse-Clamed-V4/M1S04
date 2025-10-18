@@ -1,0 +1,17 @@
+{
+  "empresa": "Clamed",
+  "categoria": "Higiene e Cuidados Pessoais",
+  "produtos": [
+    {"id": 1, "nome": "Shampoo Nutritivo", "preco": 15.9, "estoque": 120},
+    {"id": 2, "nome": "Sabonete Vegetal", "preco": 3.5, "estoque": 450},
+    {"id": 3, "nome": "Creme Dental Fresh", "preco": 7.9, "estoque": 300},
+    {"id": 4, "nome": "Desodorante Roll-On", "preco": 12.5, "estoque": 180},
+    {"id": 5, "nome": "Condicionador Revitalizante", "preco": 17.4, "estoque": 95},
+    {"id": 6, "nome": "Enxaguante Bucal Herbal", "preco": 19.9, "estoque": 60},
+    {"id": 7, "nome": "Creme Hidratante Corporal", "preco": 22.3, "estoque": 150},
+    {"id": 8, "nome": "Sabonete Líquido Antibacteriano", "preco": 8.7, "estoque": 280},
+    {"id": 9, "nome": "Gel Fixador Capilar", "preco": 10.5, "estoque": 210},
+    {"id": 10, "nome": "Protetor Solar FPS 50", "preco": 39.9, "estoque": 75}
+  ]
+}
+
